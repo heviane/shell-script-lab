@@ -19,19 +19,17 @@ Para manter o laboratório organizado, a seguinte estrutura de diretórios é re
 ├── README.md
 ├── index.md
 ├── scripts/
-│   ├── bash/
-│   └── zsh/
-└── exemplos/
+└── examples/
 ```
 
 - `index.md`: Documentação principal com a teoria.
 - `scripts/`: Scripts completos, organizados por tipo de shell ou finalidade.
-- `exemplos/`: Pequenos trechos de código, comandos úteis e *one-liners*.
+- `examples/`: Pequenos trechos de código, comandos úteis e *one-liners*.
 
 ## 🚀 Como Usar Este Laboratório
 
-1. **Clone o repositório:** `git clone https://github.com/heviane/Shell-lab.git`
-2. **Navegue até o diretório:** `cd Shell-lab`
+1. **Clone o repositório:** `git clone https://github.com/heviane/shell-lab.git`
+2. **Navegue até o diretório:** `cd shell-lab`
 3. **Explore o conteúdo:** Leia a documentação e teste os scripts.
 
 ## 🤝 Contribuições
